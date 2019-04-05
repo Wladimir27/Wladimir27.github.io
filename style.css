@@ -36,16 +36,16 @@ footer {
   top: 3px; 
 }
 .footer-bg { 
-  background: #e2ed9c; /* Цвет фона подвала */
+  background: #e2ed9c; 
   margin-top: 80px; 
 }
 .copyright {
-  width: 740px; /* Ширина макета без полей */
-  padding: 0 5px 10px; /* Поля */
+  width: 740px; 
+  padding: 0 5px 10px;
   margin: auto;
   color: #526118;
 }
 .copyright p {
-  margin: 0 0 5px 170px; /* Отступы текста */ 
+  margin: 0 0 5px 170px;  
 }
 	
