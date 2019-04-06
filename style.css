@@ -4,7 +4,7 @@ body{background: rgb(156,217,107); height: 600px; margin: 0; padding: 0;}
 div.mid{width: 1000px; margin: 0 auto;}
 div.header{background-color: rgb(144,178,71);}
 
-/*Шапка сайта*/
+//
 div.topmenu{float: right;}
 body {
     padding: 20px;
